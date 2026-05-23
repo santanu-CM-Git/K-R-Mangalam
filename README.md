@@ -22,9 +22,6 @@ Managing content across multiple subdomains needed to remain simple, centralized
 ### Separate Website Structures
 Each school website required its own structure and content while sharing one common multisite setup.
 
-### Easy Admin Switching
-Administrators needed a smooth workflow to switch between different school websites from one dashboard.
-
 ---
 
 ## Technology Stack
@@ -49,14 +46,8 @@ The solution focused on building a scalable WordPress multisite ecosystem with c
 ### WordPress Multisite Setup
 Configured a complete multisite architecture allowing multiple subdomain websites to operate from a single WordPress installation.
 
-### Centralized Admin Workflow
-Developed a super admin system where administrators can manage and switch between different school websites easily.
-
 ### Custom Theme Structure
 Created separate theme structures for each subdomain while maintaining one organized and scalable codebase.
-
-### Multisite Configuration Optimization
-Customized and optimized configuration settings to ensure smooth domain-based multisite functionality.
 
 ### Dynamic CMS Development
 Built a fully manageable CMS structure using ACF PRO without relying on page builders for content management.
