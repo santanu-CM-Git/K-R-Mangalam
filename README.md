@@ -66,6 +66,3 @@ Admins can now manage and switch between all subdomain websites from one login s
 
 ### Lightweight Website Architecture
 Avoiding page builders improved website speed, maintainability, and overall frontend performance.
-
-### Simplified Multi-Domain Management
-Enabled smooth management of multiple subdomain websites while maintaining separate structures and content control.
