@@ -61,8 +61,5 @@ The final platform delivers a scalable and centralized multisite CMS experience 
 ### Fully Dynamic Multisite Platform
 Delivered a centralized multisite CMS system capable of managing multiple school websites efficiently.
 
-### Unified Admin Access
-Admins can now manage and switch between all subdomain websites from one login system.
-
 ### Lightweight Website Architecture
 Avoiding page builders improved website speed, maintainability, and overall frontend performance.
